@@ -7,3 +7,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Realizar copia.
+- [ ] Revision del codigo.
+- [ ] Traducir manuales.
